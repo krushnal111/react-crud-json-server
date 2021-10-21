@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "krushnal",
+      "email": "krushnal@kamil.com",
+      "phone": "9601639725",
+      "age": "19",
+      "gender": "Female",
+      "country": "Canada",
+      "password": "KDP@2021",
+      "id": 2
+    },
+    {
+      "name": "cbgcdhg",
+      "email": "javascript@indianic.com",
+      "phone": "2345678",
+      "age": "345",
+      "gender": "Male",
+      "country": "USA",
+      "password": "345654646456",
+      "id": 5
+    }
+  ]
+}
